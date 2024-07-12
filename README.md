@@ -12,7 +12,7 @@ As part of the internship, I worked on developing a single-page application (SPA
 
 - **Frontend**: 
   - [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)](https://angular.io/)
-  - HTML, CSS
+  - ![HTML, CSS](https://img.shields.io/badge/HTML,CSS-336791?style=for-the-badge)
 
 - **Backend**: 
   - [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)](https://dotnet.microsoft.com/)
