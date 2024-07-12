@@ -1,8 +1,27 @@
 # Internship at TatvaSoft
 
+![TatvaSoft](https://img.shields.io/badge/TatvaSoft-F88900?style=for-the-badge)
+
 ## Overview
 
 During my internship at TatvaSoft, I had the opportunity to work on several technologies and enhance my skills in software development. The primary focus areas included .NET, Angular, Azure, performing CRUD operations, and connecting the backend to the frontend to make single-page applications more responsive.
+
+## Project: Mission Theme Web Application
+
+As part of the internship, I worked on developing a single-page application (SPA) using the following technologies:
+
+- **Frontend**: 
+  - [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)](https://angular.io/)
+  - HTML, CSS
+
+- **Backend**: 
+  - [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)](https://dotnet.microsoft.com/)
+  - [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)](https://www.postgresql.org/)
+  
+- **Cloud**: 
+  - [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge)](https://azure.microsoft.com/)
+
+The project included implementing CRUD operations, ensuring data integrity, and deploying the application on Azure.
 
 ## Skills Acquired
 
